@@ -1,0 +1,2 @@
+1- Login.bat ve Logout.bat içerisinde bulunan aktif kullanıcıların tutulacağı yolları düzeltin.
+2- Active directory bilgisayar açılışına Login.bat dosyasını ve active directory bilgisayar kapanışına Logout.bat dosyasını ekleyin.
